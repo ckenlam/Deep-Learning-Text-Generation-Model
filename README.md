@@ -1,4 +1,6 @@
 # Deep-Learning-Text-Generation-Model
+<img src="https://github.com/ckenlam/Deep-Learning-Text-Generation-Model/blob/master/bro-code-lstm.png?raw=true" width="700">
+
 Inspired by Janelle Shane's [Pickup Line Generator](https://aiweirdness.com/post/159302925452/the-neural-network-generated-pickup-lines-that-are), I attempted to train a recurrent neural network that can come up with its own Bro Codes using data from the following sources:
 - https://brocode.org/the-code/
 - http://www.fanpop.com/clubs/barney-stinson/articles/162623/title/chicks-code
